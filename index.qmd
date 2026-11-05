@@ -2,6 +2,7 @@
 title: "BigQuery SQL Basics — Lecture 1"
 subtitle: "IC/CP-W04"
 author: "Kevin Bachez"
+date: today
 format:
   html:
     toc: true
@@ -273,5 +274,5 @@ The query ran successfully and returned seven rows. December 1 had 71,804 events
 
 # GitHub Links
 
-- [View the published assignment on GitHub Pages](PASTE-YOUR-GITHUB-PAGES-URL)
+- [View the published assignment on GitHub Pages](https://kebachez.github.io/IC-CP-W04-BigQuery-SQL-Lecture-1/)
 - [View the GitHub repository](https://github.com/kebachez/IC-CP-W04-BigQuery-SQL-Lecture-1.git)
